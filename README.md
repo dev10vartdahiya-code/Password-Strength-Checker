@@ -32,12 +32,12 @@ The application also provides security recommendations and includes a random pas
 
 - Qt 6
 - CMake
-- C++ compiler
+- C++ compiler (MinGW or MSVC)
   
 1.)Clone the repository.
 2.)Open the project in Qt Creator.
 3.)Configure the project using Qt 6.
 4.)Build the project.
 5.)Run the application.
-- C++ compiler (MinGW or MSVC)
+
 
